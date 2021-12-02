@@ -3,8 +3,6 @@
 ### sujatha
 #### bhavana
 
-**favplaces**
-
 *vizag*
 
 *paris*
